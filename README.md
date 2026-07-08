@@ -1,29 +1,43 @@
 <div align="center">
-
-<!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A020F0&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Om+Pandey+%F0%9F%91%8B;Full-Stack+Dev+%2B+AI+Engineer;Google+Student+Ambassador+%2726;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:0070F3&height=120&section=header&animation=fadeIn" />
-
+  <!-- Dynamic Hacker Theme Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2326,100:000000&height=180&section=header&text=Om%20Pandey&fontSize=75&fontColor=00FF99&animation=twinkling&desc=Full-Stack%20Engineer%20|%20AI%20Enthusiast&descAlign=60&descAlignY=70&fontAlignY=35" width="100%" />
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/Om-pandey-developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00FF99&background=00000000&center=true&vCenter=true&random=false&width=600&lines=%E2%9D%AF+sudo+whoami;%E2%9D%AF+Full-Stack+Developer+%7C+AI+Engineer;%E2%9D%AF+Google+Student+Ambassador+'26;%E2%9D%AF+Building+autonomous+AI+agents;%E2%9D%AF+Coding+the+future..."/>
+  </a>
+</div>
 
-<img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- Profile Views & Social Badges Right at the Top -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Om-pandey-developer&color=00FF99&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/om-pandey-tech"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:om2705pandey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</div>
 
-### 🧠 About Me
+<!-- Animated Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-```typescript
-const om = {
-  role: "Full-Stack Dev + AI Engineer",
-  title: "Google Student Ambassador '26",
-  university: "Computer Engineering Undergrad",
-  currentlyBuilding: ["Aegis-OS (Agentic Workflows)", "Next.js Apps"],
-  exploring: ["Geospatial Data Analysis", "NLP Chatbots"],
-  problemsSolved: "200+ LeetCode challenges ⚔️",
-  contact: "om2705pandey@gmail.com",
-  funFact: "I make AI agents do my boring work 🤖"
-};
+## 👨‍💻 `whoami`
+
+<table align="center" style="border: none; background: transparent;">
+<tr>
+<td width="55%" align="left">
+
+```json
+{
+  "name": "Om Pandey",
+  "role": "Google Student Ambassador '26",
+  "education": "Computer Engineering Undergrad",
+  "focus": [
+    "Full-Stack Web Dev",
+    "Agentic AI Workflows",
+    "Geospatial Data"
+  ],
+  "currently_building": "Aegis-OS",
+  "dsa_stats": "200+ LeetCode problems ⚔️",
+  "fun_fact": "I automate the boring stuff with AI 🤖"
+}
