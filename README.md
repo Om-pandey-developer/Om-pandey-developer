@@ -35,7 +35,6 @@ THEME: CYBER-DEV / DARK NEON
           👋 Hi, I'm <b>Om Pandey</b>, a passionate Full-Stack Engineer and AI researcher.<br/><br/>
           🎓 <b>Education:</b> Computer Engineering Undergraduate<br/>
           🌟 <b>Role:</b> Google Student Ambassador '26<br/>
-          ⚔️ <b>Algorithms:</b> Conquered 200+ LeetCode challenges<br/>
           🚀 <b>Focus:</b> Microservices, LLM-based Chatbots, Next.js, and Agentic OS architectures.<br/><br/>
           <i>"I turn caffeine and late-night thoughts into production-ready software."</i>
         </p>
