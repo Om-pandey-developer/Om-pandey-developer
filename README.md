@@ -5,8 +5,15 @@ THEME: CYBER-DEV / DARK NEON
 ======================================================================= 
 -->
 
+<!-- 
+=======================================================================
+OM PANDEY - GITHUB PROFILE README
+THEME: CYBER-DEV / DARK NEON
+======================================================================= 
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Om%20Pandey&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Architecting%20Scalable%20Systems%20%7C%20AI%20%26%20Agentic%20Workflows&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,1,3,1155ff&amp;height=250&amp;section=header&amp;text=Om%20Pandey&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Full-Stack%20Engineer%20|%20AI%20Enthusiast&amp;descAlign=50&amp;descAlignY=70" width="100%" alt="Header Banner" />
 </div>
 
 <div align="right">
@@ -14,6 +21,7 @@ THEME: CYBER-DEV / DARK NEON
     <img src="https://komarev.com/ghpvc/?username=Om-pandey-developer&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
 </div>
+
 
 <!-- ==================== ABOUT ME TERMINAL ==================== -->
 <br/>
