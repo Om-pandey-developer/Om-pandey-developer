@@ -5,15 +5,8 @@ THEME: CYBER-DEV / DARK NEON
 ======================================================================= 
 -->
 
-<!-- 
-=======================================================================
-OM PANDEY - GITHUB PROFILE README
-THEME: CYBER-DEV / DARK NEON
-======================================================================= 
--->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,1,3,1155ff&amp;height=250&amp;section=header&amp;text=Om%20Pandey&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Full-Stack%20Engineer%20|%20AI%20Enthusiast&amp;descAlign=50&amp;descAlignY=70" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,1,3,1155ff&amp;height=250&amp;section=header&amp;text=Om%20Pandey&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Architecting%20Scalable%20Systems%20|%20AI%20&amp;%20Agentic%20Workflows&amp;descAlign=50&amp;descAlignY=70" width="100%" alt="Header Banner" />
 </div>
 
 <div align="right">
@@ -22,14 +15,13 @@ THEME: CYBER-DEV / DARK NEON
   </a>
 </div>
 
-
 <!-- ==================== ABOUT ME TERMINAL ==================== -->
 <br/>
 <div align="center">
   <table border="1" cellpadding="15" cellspacing="0" bordercolor="#30363D" width="90%" style="border-collapse: collapse; background-color: #0D1117; border-radius: 10px;">
     <tr>
       <td colspan="2" style="background-color: #161B22; border-bottom: 1px solid #30363D;">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/mac-window.svg" height="15" /> 
+        🔴 🟡 🟢 
         &nbsp;&nbsp;<code style="color: #8B949E; background: transparent;">om_pandey@macbook-pro ~ % sudo whoami</code>
       </td>
     </tr>
@@ -93,7 +85,6 @@ THEME: CYBER-DEV / DARK NEON
 <!-- ==================== OPEN SOURCE REPOSITORIES ==================== -->
 <h2 align="center">📂 <code>ls -la ~/projects</code></h2>
 <div align="center">
-  <!-- Dynamic GitHub Repo Cards -->
   <a href="https://github.com/Om-pandey-developer/legacy-lazarus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-pandey-developer&repo=legacy-lazarus&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" alt="Legacy Lazarus" />
   </a>
@@ -116,18 +107,15 @@ THEME: CYBER-DEV / DARK NEON
   <table border="0" cellpadding="5" cellspacing="0" width="100%">
     <tr>
       <td align="center">
-        <!-- Main Stats Card -->
         <img src="https://github-readme-stats.vercel.app/api?username=Om-pandey-developer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF0080&text_color=C9D1D9" alt="Om's GitHub Stats" />
       </td>
       <td align="center">
-        <!-- Top Languages Card -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-pandey-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <br/>
-        <!-- Streak Stats -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-pandey-developer&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF0080&fire=FF0080&currStreakLabel=58A6FF" alt="GitHub Streak" />
       </td>
     </tr>
@@ -142,15 +130,12 @@ THEME: CYBER-DEV / DARK NEON
 </div>
 <br/>
 
-<!-- ==================== SNAKE CONTRIBUTION GRID ==================== -->
-<h2 align="center">🐍 <code>eating_commits.py</code></h2>
+<!-- ==================== ACTIVITY GRAPH ==================== -->
+<h2 align="center">📊 <code>git_activity_graph.py</code></h2>
 <div align="center">
-  <!-- Ensure you have the GitHub Action setup for this to render -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Om-pandey-developer/Om-pandey-developer/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Om-pandey-developer/Om-pandey-developer/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Om-pandey-developer/Om-pandey-developer/output/dist/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/Om-pandey-developer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-pandey-developer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF0080&point=FFFFFF" width="100%" alt="Activity Graph" />
+  </a>
 </div>
 <br/>
 
@@ -160,14 +145,8 @@ THEME: CYBER-DEV / DARK NEON
   <a href="https://www.linkedin.com/in/om-pandey-tech" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="mailto:om2705pandey@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 <br/>
@@ -181,5 +160,5 @@ THEME: CYBER-DEV / DARK NEON
 
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161B22,100:0D1117&amp;height=120&amp;section=footer" width="100%" />
 </div>
